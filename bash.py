@@ -1,4 +1,4 @@
-# maintained : @hnc
+# maintained by @hnc
 # -*- coding: utf-8 -*-
 
 import os
