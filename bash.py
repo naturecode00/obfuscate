@@ -1,4 +1,4 @@
-# author : @Syhrularv_
+# author : @naturecode00
 # -*- coding: utf-8 -*-
 
 import os
@@ -19,22 +19,11 @@ sukses = G + '[' + W + '√' + G + '] '
 eror = R + '[' + W + '!' + R + ']'
 
 banner = """
-{}         _nnnn_{}        _________________
-{}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
-{}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
-{}       @,{}----.{}JM|{}_/
-{}      JS^{}\__/{}  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}fb.com/sarul.arif.5
-{} __|'\ .        |\{}dS qML
-{} |    `.       | `' \{}Zq
-{}_)      \.{}___.{},|     .'
-\____   ){}MMMMMP{}|   .'
-     `-'       `--'
+{} _   _ _   _  ____   _       _   _
+{}| | | | \ | |/ ___| (_)___  | | | | ___ _ __ ___
+{}| |_| |  \| | |     | / __| | |_| |/ _ \ '__/ _ \
+{}|  _  | |\  | |___  | \__ \ |  _  |  __/ | |  __/
+{}|_| |_|_| \_|\____| |_|___/ |_| |_|\___|_|  \___|
 """.format(D,W,D,W,D,W,Y,W,D,W,D,W,D,W,D,W,D,Y,D,W,D,Y,D,G,W,G,D,G,W,G,Y,D,Y,D,Y,D,Y,D,Y)
 
 banner2 = """
