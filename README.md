@@ -6,3 +6,7 @@ $ npm install -g bash-obfuscate
 $ git clone https://github.com/naturecode00/obfuscate
 $ python2 bash.py
 ```
+
+#ubuntu
+$ 
+$ sudo apt install nodejs
