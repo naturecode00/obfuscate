@@ -1,4 +1,4 @@
-# author : @naturecode00
+# maintance : @naturecode00
 # -*- coding: utf-8 -*-
 
 import os
